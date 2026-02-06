@@ -47,5 +47,6 @@ public class CalculatorApp {
         }
         System.out.println("The final result:");
         System.out.println(num1 + " " + operator + " " + num2 + " = " + result);
+        System.out.println("Completed");
     }
 }
